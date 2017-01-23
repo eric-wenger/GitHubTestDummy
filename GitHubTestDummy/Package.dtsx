@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/23/2017 3:09:24 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="VET-LT112"
+  DTS:CreatorName="WABUTLER\EWenger"
+  DTS:DTSID="{C595D822-182D-4912-B33A-098C7479FAD2}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="13.0.2165.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{B5664667-F58F-412E-A823-BA3FE8B3DDAA}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
